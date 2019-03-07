@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Hello_Instantiation
 {
-    class Hello
+    public class Hello
     {
         public Hello()
         {
@@ -17,7 +13,7 @@ namespace Hello_Instantiation
             Console.Write("Hello World!");
             for (int i = 0; i < args.Length; i++)
             {
-                Console.Write(" " + args[i]);
+                Console.Write($" {args[i]}");
             }
         }
     }
