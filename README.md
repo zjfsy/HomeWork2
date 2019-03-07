@@ -1,34 +1,34 @@
 # Homework2
 
-#1. ´´½¨ĞÂµÄÀà£¬ÊµÀı»¯ HelloWorld
-ÏîÄ¿ÎÄ¼ş£ºHello_Instantiation
-´´½¨ÊµÀı»¯HelloÀà£¬ÓÃHelloÀàµÄprint·½·¨Êä³öÒ»¸öHello World£¬²¢Êä³ö´«ÈëµÄ²ÎÊı
-½ØÍ¼£º
+## 1. åˆ›å»ºæ–°çš„ç±»ï¼Œå®ä¾‹åŒ– HelloWorld
+é¡¹ç›®æ–‡ä»¶ï¼šHello_Instantiation  
+åˆ›å»ºå®ä¾‹åŒ–Helloç±»ï¼Œç”¨Helloç±»çš„printæ–¹æ³•è¾“å‡ºä¸€ä¸ªHello Worldï¼Œå¹¶è¾“å‡ºä¼ å…¥çš„å‚æ•°  
+æˆªå›¾ï¼š  
 ![screen ](pictures/10.png)
 
-#2. ´´½¨ĞÂµÄÀà£¬¾²Ì¬·½·¨£¬ÎŞĞèÊµÀı»¯µÄ HelloWorld
-ÏîÄ¿ÎÄ¼ş£ºHello_Staticstate
-´´½¨¾²Ì¬HelloÀà£¬Hello.hello()Êä³öÒ»¸öHello World£¬²¢Êä³ö´«ÈëµÄ²ÎÊı
-½ØÍ¼£º
+## 2. åˆ›å»ºæ–°çš„ç±»ï¼Œé™æ€æ–¹æ³•ï¼Œæ— éœ€å®ä¾‹åŒ–çš„ HelloWorld
+é¡¹ç›®æ–‡ä»¶ï¼šHello_Staticstate  
+åˆ›å»ºé™æ€Helloç±»ï¼ŒHello.hello()è¾“å‡ºä¸€ä¸ªHello Worldï¼Œå¹¶è¾“å‡ºä¼ å…¥çš„å‚æ•°  
+æˆªå›¾ï¼š  
 ![screen ](pictures/20.png)
 
-#3. WPFµÄHelloWorld
-ÏîÄ¿ÎÄ¼ş£ºHello_WPF
-ÔÚ´°ÌåÉÏ´´½¨°´Å¥£¬ÔÚ´¦Àí°´Å¥ÏûÏ¢µÄº¯ÊıÖĞÓÃMessageBox.Show()Êä³öHello World
-½ØÍ¼£º
+## 3. WPFçš„HelloWorld
+é¡¹ç›®æ–‡ä»¶ï¼šHello_WPF  
+åœ¨çª—ä½“ä¸Šåˆ›å»ºæŒ‰é’®ï¼Œåœ¨å¤„ç†æŒ‰é’®æ¶ˆæ¯çš„å‡½æ•°ä¸­ç”¨MessageBox.Show()è¾“å‡ºHello World  
+æˆªå›¾ï¼š  
 ![screen ](pictures/31.png)
 ![screen ](pictures/32.png)
 
-#4. WindowsFormÖĞ´´½¨ĞÂÀàµÄ HelloWorld
-ÏîÄ¿ÎÄ¼ş£ºHello_Forms
-ÔÚ´°ÌåÉÏ´´½¨°´Å¥£¬ÔÚ´¦Àí°´Å¥ÏûÏ¢µÄº¯ÊıÖĞÓÃMessageBox.Show()Êä³öHello World
-½ØÍ¼£º
+## 4. WindowsFormä¸­åˆ›å»ºæ–°ç±»çš„ HelloWorld
+é¡¹ç›®æ–‡ä»¶ï¼šHello_Forms  
+åœ¨çª—ä½“ä¸Šåˆ›å»ºæŒ‰é’®ï¼Œåœ¨å¤„ç†æŒ‰é’®æ¶ˆæ¯çš„å‡½æ•°ä¸­ç”¨MessageBox.Show()è¾“å‡ºHello World  
+æˆªå›¾ï¼š  
 ![screen ](pictures/41.png)
 ![screen ](pictures/42.png)
 
-#5. Xamarin Android HelloWorld
-ÏîÄ¿ÎÄ¼ş£ºHello_Android
-ÔÚ´°ÌåÉÏ´´½¨°´Å¥£¬µã»÷°´Å¥Ê±µ¯³öµ¯´°ÏÔÊ¾"Hello I am a great C# programmer!"
-½ØÍ¼£º
+## 5. Xamarin Android HelloWorld
+é¡¹ç›®æ–‡ä»¶ï¼šHello_Android  
+åœ¨çª—ä½“ä¸Šåˆ›å»ºæŒ‰é’®ï¼Œç‚¹å‡»æŒ‰é’®æ—¶å¼¹å‡ºå¼¹çª—æ˜¾ç¤º"Hello I am a great C# programmer!"  
+æˆªå›¾ï¼š  
 ![screen ](pictures/51.png)
 ![screen ](pictures/52.png)
