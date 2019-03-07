@@ -14,9 +14,10 @@ namespace Hello_Instantiation
         }
         public void print(String[] args)
         {
-            for(int i = 0; i < args.Length; i++)
+            Console.Write("Hello World!");
+            for (int i = 0; i < args.Length; i++)
             {
-                Console.Write(args[i] + " ");
+                Console.Write(" " + args[i]);
             }
         }
     }
